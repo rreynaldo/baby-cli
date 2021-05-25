@@ -1,0 +1,22 @@
+{
+  "keywords": [
+    "cli",
+    "console",
+    "framework",
+    "micro-framework",
+    "commander",
+    "psr-11"
+  ],
+  "require": {
+    "rreynaldo/baby": "dev-main",
+    "php-di/php-di": "^6.3",
+    "monolog/monolog": "^2.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "name": "rreynaldo/baby-cli",
+  "description": "Baby Starter Project"
+}

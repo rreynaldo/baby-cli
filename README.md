@@ -4,4 +4,4 @@
 
 ## Install
 
-> composer require rreynaldo/baby-cli
+> composer create-project rreynaldo/baby-cli:dev-main my_project_name
